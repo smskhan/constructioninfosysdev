@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="45" viewBox="0 0 41 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efc823;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="20.5" cy="22.5" rx="20.5" ry="22.5"/>
+</svg>
